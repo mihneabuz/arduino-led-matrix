@@ -1,0 +1,8 @@
+Programmable led matrix
+
+- loads scripts from SD card
+- can cycle scripts with buttons
+- current script name is displayed on LCD
+- script plays on a 8 x 32 led matrix
+- can display current time using RTC
+- music visualizer using a microphone and FFT
